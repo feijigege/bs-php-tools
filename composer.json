@@ -1,0 +1,17 @@
+{
+  "name": "cqbs/php-tools",
+  "description": "bs-php",
+  "require": {},
+  "authors": [
+    {
+      "name": "HNH",
+      "email": "twotk@qq.com",
+      "homepage": "https://www.twotk.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "pf\\arr\\": "src/"
+    }
+  }
+}
